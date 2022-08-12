@@ -1,5 +1,8 @@
 ### Всем привет 👋
 ## Меня зовут Рашид, здесь буду выкладывать свои учебные/пет проекты
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+<a href="https://telegram.me/roshik14">
+  <img src="telegram.svg" alt="telegram" width="32px" height="32px">
+</a>
+<a href="https://mailto:fraust1337@gmail.com">
+  <img src="gmail.svg" alt="telegram" width="32px" height="32px">
+</a>
